@@ -1,7 +1,7 @@
 # Fixed Point Implementation of Pan-Tompkins ECG QRS Detector
 
 <p align="center">
-  <img width="50" height="50" src="./assets/logo.png">
+  <img src="./assets/logo.png">
 </p>
 
 ## Summary

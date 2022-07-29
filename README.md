@@ -1,7 +1,7 @@
 # Fixed Point Implementation of Pan-Tompkins ECG QRS Detector
 
 <p align="center">
-  <img width="460" height="300" src="./assets/logo.png">
+  <img width="50" height="50" src="./assets/logo.png">
 </p>
 
 ## Summary
@@ -24,7 +24,7 @@ Pan and Tompkins proposed an accurate real-time ECG beat detector in 1985 that h
 successfully used in many commercial devices [[1]](#1). The main stages of the algorithm are
 detailed in the folowing diagram.
 
-[](./assets/pan-tompkins-algorithm.png)
+![Algorithm](./assets/pan-tompkins-algorithm.png)
 
 
 ## Implementation
@@ -40,7 +40,7 @@ cation is very simple.
 
 An example output of the code is illustrated below.
 
-[](./assets/Example.png)
+![Example](./assets/Example.png)
 
 
 
@@ -56,7 +56,7 @@ and calls the other subroutines such as  filtering and decision making units. 
 
 
 
-## Get me a coffee :) 
+## Get me a coffee :coffee: 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9FAVSPGXTBBQU&currency_code=USD)
 
 

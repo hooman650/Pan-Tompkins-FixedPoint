@@ -63,7 +63,7 @@ and calls the other subroutines such as  filtering and decision making units. 
 
 ## How To Cite 
 ```
-@misc{sedghamiz2021supclseq,
+@misc{sedghamiz2021ECG,
       title={Fixed Point Implementation of Pan-Tompkins ECG QRS Detector}, 
       author={Hooman Sedghamiz},
       year={2021},
